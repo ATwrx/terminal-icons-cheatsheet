@@ -1,0 +1,41 @@
+utils: {
+  locks:    
+  files:     
+  history:    
+  clocks:   
+  settings:   
+  chevrons:    
+  money:     
+  shopping:     
+  volume:    
+  music:         
+  music-seek:         
+  video:      
+  shapes:        
+  email:   
+  cloud:  
+  computer:   
+  database:      
+  coding:  
+  other:          
+}
+
+users: {
+  standard:      
+  a11y:       
+  character:    
+  face:   
+  hands:[
+        
+       
+       
+  ]    
+  eye:   
+  group:  
+}
+
+vehicles:          
+space:    
+logos:     
+sports:    
+misc:            
