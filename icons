@@ -11,19 +11,19 @@ utils: {
   music:         
   music-seek:         
   video:      
-  shapes:        
+  shapes:          
   email:   
   cloud:  
-  computer:   
-  database:      
   coding:  
-  other:          
+  computer:     
+  database:     
+  other:        
 }
 
 users: {
   standard:      
-  a11y:       
-  character:    
+  a11y:     
+  alt-users:    
   face:   
   hands:[
         
@@ -34,8 +34,8 @@ users: {
   group:  
 }
 
-vehicles:          
-space:    
+vehicles:        
+sky-stuff:    
 logos:     
 sports:    
-misc:            
+misc:             
